@@ -32,6 +32,7 @@ The bot responds to the following commands:
 1. `!ip:` Returns the public IP address of the machine the bot is running on.
 2. `!foundry:` Returns a URL to the Foundry VTT server running on the machine.
 3. `!valheim:` Returns a connection string to the Valheim server running on the machine.
+4. `!enshrouded:` Returns a connection string to the Enshrouded server running on the machine.
 
 ### Docker
 
